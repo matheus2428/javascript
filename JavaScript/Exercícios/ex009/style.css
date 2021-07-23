@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+body {
+    background-color: #2a729e;
+    font: normal 20pt Arial;
+    text-align: center;
+}
+h1{
+    color: #bdbd1e;
+}
+input#age{
+    width: 50px;
+    height: 25px;
+    font: normal 20pt Arial;
+    background-color:#144563;
+    border-radius: 20px;
+}
+input#ver{
+    width: 150px;
+    height: 75px;
+    font: normal 20pt Arial;
+    background-color:#113f5c;
+    border-radius: 20px;
+}
